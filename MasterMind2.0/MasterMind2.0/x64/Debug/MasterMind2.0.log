@@ -1,0 +1,4 @@
+﻿  MasterMind.cpp
+C:\Users\User\source\repos\MasterMind2.0\MasterMind2.0\MasterMind.cpp(5,1): warning C4326: tipo de retorno de 'main' deve ser 'int' em vez de 'void'
+C:\Users\User\source\repos\MasterMind2.0\MasterMind2.0\MasterMind.cpp(10,12): warning C4244: 'argumento': conversão de 'time_t' para 'unsigned int', possível perda de dados
+  MasterMind2.0.vcxproj -> C:\Users\User\source\repos\MasterMind2.0\x64\Debug\MasterMind2.0.exe
