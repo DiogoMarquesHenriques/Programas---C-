@@ -21,8 +21,7 @@ int main() {
         }
         else if (km[i] == 0 && m[i] == 0 && viagens <= 1) {
             cout << "Nem caminhaste preguiçoso \n";
-            break;
-            
+            break;   
         }
         else {
             viagens = viagens + 1;
