@@ -1,0 +1,11 @@
+﻿  Cp-Comboios.cpp
+C:\Users\User\source\repos\CP-Comboios\CP-Comboios\Cp-Comboios.cpp(9,2): warning C4326: tipo de retorno de 'main' deve ser 'int' em vez de 'void'
+C:\Users\User\source\repos\CP-Comboios\CP-Comboios\Cp-Comboios.cpp(18,17): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\User\source\repos\CP-Comboios\CP-Comboios\Cp-Comboios.cpp(26,25): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\User\source\repos\CP-Comboios\CP-Comboios\Cp-Comboios.cpp(33,18): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\User\source\repos\CP-Comboios\CP-Comboios\Cp-Comboios.cpp(41,26): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\User\source\repos\CP-Comboios\CP-Comboios\Cp-Comboios.cpp(48,18): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\User\source\repos\CP-Comboios\CP-Comboios\Cp-Comboios.cpp(56,26): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\User\source\repos\CP-Comboios\CP-Comboios\Cp-Comboios.cpp(64,18): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\User\source\repos\CP-Comboios\CP-Comboios\Cp-Comboios.cpp(72,26): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+  CP-Comboios.vcxproj -> C:\Users\User\source\repos\CP-Comboios\x64\Debug\CP-Comboios.exe
