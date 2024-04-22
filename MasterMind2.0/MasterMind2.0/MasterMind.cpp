@@ -1,10 +1,9 @@
 #include <iostream>
 #include <locale.h>
-
-void main()
+using namespace std;
+int main()
 {
 	setlocale(LC_ALL, "portuguese");
-	using namespace std;
 	string nome;
 	int repetir = 1, valor, jogo[5][10], i, j, jogadas = 10, n[5][10], soma = 0;
 	srand(time(0));
@@ -32,7 +31,7 @@ void main()
 						break;
 						}
 						for (j = 0; j < 10; j++) {
-							cout << "Digite um número [1/2]: ";
+							cout << "Digite um nÃºmero [1/2]: ";
 							cin >> n[i][j];
 							jogadas = jogadas - 1;
 							if (n[i][j] == jogo[i][j]) {
@@ -57,8 +56,9 @@ void main()
 					break;
 				}
 				default: {
-					cout << "[Caractér Inválido]\n";
+					cout << "[CaractÃ©r InvÃ¡lido]\n";
 				}
 		}
 	} while (repetir != 0);
+	return 0;
 }
